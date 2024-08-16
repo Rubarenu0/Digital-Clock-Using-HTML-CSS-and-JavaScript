@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right,#99BC85,#BFD8AF);
+}
+h1{
+    font-size: 50px;
+    margin-left: 550px;
+    margin-top: 200px;
+    color: #632626;
+}
+div{
+    border-style: outset;
+    background-color: #C2DED1;
+    padding: 10px;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 7px;
+}
